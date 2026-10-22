@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Arranco <strong>Ciencia de Datos</strong> en la UNR en 2027. Llegué a programar por los videojuegos.
+  Python, React y automatización. Hago software que se usa todos los días en negocios reales.
 </p>
 
 <p align="center">
@@ -20,11 +20,15 @@
 </div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,react,js,html,css,git,github,vercel,postgres&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,react,js,html,css,git,github,vercel,postgres&theme=light&perline=9" />
-    <img src="https://skillicons.dev/icons?i=py,react,js,html,css,git,github,vercel,postgres&theme=light&perline=9" alt="Python, React, JavaScript, HTML, CSS, Git, GitHub, Vercel y PostgreSQL" />
-  </picture>
+  <img src="./assets/stack/python.svg" alt="Python" width="48" height="48" />
+  <img src="./assets/stack/react.svg" alt="React" width="48" height="48" />
+  <img src="./assets/stack/javascript.svg" alt="JavaScript" width="48" height="48" />
+  <img src="./assets/stack/html.svg" alt="HTML" width="48" height="48" />
+  <img src="./assets/stack/css.svg" alt="CSS" width="48" height="48" />
+  <img src="./assets/stack/git.svg" alt="Git" width="48" height="48" />
+  <img src="./assets/stack/github.svg" alt="GitHub" width="48" height="48" />
+  <img src="./assets/stack/vercel.svg" alt="Vercel" width="48" height="48" />
+  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" width="48" height="48" />
 </p>
 
 <div align="center">
@@ -33,10 +37,6 @@
 
 <p align="center">
   <img src="./profile/streak.svg" alt="Racha de contribuciones de Rahyned: racha actual, total y racha más larga" />
-</p>
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="Estadísticas de GitHub de Rahyned: estrellas, commits, pull requests, issues y contribuciones" />
 </p>
 
 <p align="center">
