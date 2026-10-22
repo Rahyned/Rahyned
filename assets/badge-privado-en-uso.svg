@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="196" height="28" viewBox="0 0 196 28" role="img" aria-labelledby="badge-privado-en-uso badge-privado-en-uso-desc">
-  <title id="badge-privado-en-uso">Privado · En uso</title>
-  <desc id="badge-privado-en-uso-desc">Etiqueta de estado estilo shields.io: privado, en uso.</desc>
-  <rect width="196" height="28" rx="3" fill="#221F1A"/>
-  <text x="98" y="18" fill="#FFC53D" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="700" letter-spacing="1.6" text-anchor="middle">PRIVADO · EN USO</text>
-</svg>
