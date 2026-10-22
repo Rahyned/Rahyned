@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="76" viewBox="0 0 360 76" role="img" aria-labelledby="title-proyectos desc-proyectos" shape-rendering="crispEdges">
+  <title id="title-proyectos">Proyectos</title>
+  <desc id="desc-proyectos">Título de sección estilo cuadro de diálogo pixel: Proyectos.</desc>
+  <path d="M12 4H348V12H356V64H348V72H12V64H4V12H12Z" fill="#FF4D5E"/>
+  <path d="M8 0H344V8H352V60H344V68H8V60H0V8H8Z" fill="#221F1A"/>
+  <path d="M14 6H338V14H346V54H338V62H14V54H6V14H14Z" fill="#F7F4EF"/>
+  <path d="M60 22h4v4h-4zM60 26h8v4h-8zM60 30h12v4h-12zM60 34h16v4h-16zM60 38h12v4h-12zM60 42h8v4h-8zM60 46h4v4h-4z" fill="#FF4D5E"/>
+  <path d="M88 22h16v4h-16zM88 26h4v4h-4zM104 26h4v4h-4zM88 30h4v4h-4zM104 30h4v4h-4zM88 34h16v4h-16zM88 38h4v4h-4zM88 42h4v4h-4zM88 46h4v4h-4zM112 22h16v4h-16zM112 26h4v4h-4zM128 26h4v4h-4zM112 30h4v4h-4zM128 30h4v4h-4zM112 34h16v4h-16zM112 38h4v4h-4zM120 38h4v4h-4zM112 42h4v4h-4zM124 42h4v4h-4zM112 46h4v4h-4zM128 46h4v4h-4zM140 22h12v4h-12zM136 26h4v4h-4zM152 26h4v4h-4zM136 30h4v4h-4zM152 30h4v4h-4zM136 34h4v4h-4zM152 34h4v4h-4zM136 38h4v4h-4zM152 38h4v4h-4zM136 42h4v4h-4zM152 42h4v4h-4zM140 46h12v4h-12zM160 22h4v4h-4zM176 22h4v4h-4zM160 26h4v4h-4zM176 26h4v4h-4zM164 30h4v4h-4zM172 30h4v4h-4zM168 34h4v4h-4zM168 38h4v4h-4zM168 42h4v4h-4zM168 46h4v4h-4zM184 22h20v4h-20zM184 26h4v4h-4zM184 30h4v4h-4zM184 34h16v4h-16zM184 38h4v4h-4zM184 42h4v4h-4zM184 46h20v4h-20zM212 22h12v4h-12zM208 26h4v4h-4zM224 26h4v4h-4zM208 30h4v4h-4zM208 34h4v4h-4zM208 38h4v4h-4zM208 42h4v4h-4zM224 42h4v4h-4zM212 46h12v4h-12zM232 22h20v4h-20zM240 26h4v4h-4zM240 30h4v4h-4zM240 34h4v4h-4zM240 38h4v4h-4zM240 42h4v4h-4zM240 46h4v4h-4zM260 22h12v4h-12zM256 26h4v4h-4zM272 26h4v4h-4zM256 30h4v4h-4zM272 30h4v4h-4zM256 34h4v4h-4zM272 34h4v4h-4zM256 38h4v4h-4zM272 38h4v4h-4zM256 42h4v4h-4zM272 42h4v4h-4zM260 46h12v4h-12zM284 22h12v4h-12zM280 26h4v4h-4zM280 30h4v4h-4zM284 34h12v4h-12zM296 38h4v4h-4zM296 42h4v4h-4zM284 46h12v4h-12z" fill="#221F1A"/>
+  <rect x="88" y="55" width="60" height="4" fill="#FFC53D"/>
+</svg>
