@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="76" viewBox="0 0 360 76" role="img" aria-labelledby="title-actividad desc-actividad" shape-rendering="crispEdges">
+  <title id="title-actividad">Actividad</title>
+  <desc id="desc-actividad">Título de sección estilo cuadro de diálogo pixel: Actividad.</desc>
+  <path d="M12 4H348V12H356V64H348V72H12V64H4V12H12Z" fill="#FF4D5E"/>
+  <path d="M8 0H344V8H352V60H344V68H8V60H0V8H8Z" fill="#221F1A"/>
+  <path d="M14 6H338V14H346V54H338V62H14V54H6V14H14Z" fill="#F7F4EF"/>
+  <path d="M60 24h5v5h-5zM60 29h10v5h-10zM60 34h15v5h-15zM60 39h10v5h-10zM60 44h5v5h-5z" fill="#FF4D5E"/>
+  <path d="M91 22h12v4h-12zM87 26h4v4h-4zM103 26h4v4h-4zM87 30h4v4h-4zM103 30h4v4h-4zM87 34h20v4h-20zM87 38h4v4h-4zM103 38h4v4h-4zM87 42h4v4h-4zM103 42h4v4h-4zM87 46h4v4h-4zM103 46h4v4h-4zM115 22h12v4h-12zM111 26h4v4h-4zM127 26h4v4h-4zM111 30h4v4h-4zM111 34h4v4h-4zM111 38h4v4h-4zM111 42h4v4h-4zM127 42h4v4h-4zM115 46h12v4h-12zM135 22h20v4h-20zM143 26h4v4h-4zM143 30h4v4h-4zM143 34h4v4h-4zM143 38h4v4h-4zM143 42h4v4h-4zM143 46h4v4h-4zM159 22h20v4h-20zM167 26h4v4h-4zM167 30h4v4h-4zM167 34h4v4h-4zM167 38h4v4h-4zM167 42h4v4h-4zM159 46h20v4h-20zM183 22h4v4h-4zM199 22h4v4h-4zM183 26h4v4h-4zM199 26h4v4h-4zM183 30h4v4h-4zM199 30h4v4h-4zM183 34h4v4h-4zM199 34h4v4h-4zM183 38h4v4h-4zM199 38h4v4h-4zM187 42h4v4h-4zM195 42h4v4h-4zM191 46h4v4h-4zM207 22h20v4h-20zM215 26h4v4h-4zM215 30h4v4h-4zM215 34h4v4h-4zM215 38h4v4h-4zM215 42h4v4h-4zM207 46h20v4h-20zM231 22h16v4h-16zM231 26h4v4h-4zM247 26h4v4h-4zM231 30h4v4h-4zM247 30h4v4h-4zM231 34h4v4h-4zM247 34h4v4h-4zM231 38h4v4h-4zM247 38h4v4h-4zM231 42h4v4h-4zM247 42h4v4h-4zM231 46h16v4h-16zM259 22h12v4h-12zM255 26h4v4h-4zM271 26h4v4h-4zM255 30h4v4h-4zM271 30h4v4h-4zM255 34h20v4h-20zM255 38h4v4h-4zM271 38h4v4h-4zM255 42h4v4h-4zM271 42h4v4h-4zM255 46h4v4h-4zM271 46h4v4h-4zM279 22h16v4h-16zM279 26h4v4h-4zM295 26h4v4h-4zM279 30h4v4h-4zM295 30h4v4h-4zM279 34h4v4h-4zM295 34h4v4h-4zM279 38h4v4h-4zM295 38h4v4h-4zM279 42h4v4h-4zM295 42h4v4h-4zM279 46h16v4h-16z" fill="#221F1A"/>
+  <rect x="87" y="55" width="60" height="4" fill="#FFC53D"/>
+</svg>

@@ -1,0 +1,43 @@
+name: Tarjetas de actividad
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Generar estadísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&bg_color=F7F4EF&title_color=FF4D5E&text_color=221F1A&icon_color=116E7A&border_color=221F1A&border_radius=0&rank_icon=github&locale=es&custom_title=ESTADISTICAS
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generar racha
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&background=F7F4EF&border=221F1A&stroke=221F1A&ring=FF4D5E&fire=FFC53D&currStreakNum=221F1A&sideNums=221F1A&currStreakLabel=116E7A&sideLabels=116E7A&dates=221F1A&border_radius=0&locale=es
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit de las tarjetas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/streak.svg
+          git commit -m "chore: actualizar tarjetas de actividad" || exit 0
+          git push

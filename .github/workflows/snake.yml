@@ -1,0 +1,33 @@
+name: Serpiente de contribuciones
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generar serpiente clara y oscura
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#FF4D5E&color_dots=#E8E1D5,#B9DDD6,#5FB3A6,#116E7A,#0B4A50
+            dist/snake-dark.svg?color_snake=#FFC53D&color_dots=#2A2722,#164A4E,#116E7A,#5FB3A6,#FF4D5E
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
