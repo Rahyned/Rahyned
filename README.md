@@ -4,14 +4,14 @@
 
 <p align="center">
   Python, React y automatización. Hago software que se usa todos los días en negocios reales.<br />
-  Los proyectos y demos están en el <a href="https://portafolio-web-three-gamma.vercel.app">portafolio</a>.
+  Los proyectos y demos están en el <a href="https://lautaro.is-a.dev">portafolio</a>.
 </p>
 
 <p align="center">
   <a href="https://github.com/Rahyned">
     <img src="https://img.shields.io/badge/GITHUB-Rahyned-FF4D5E?style=for-the-badge&logo=github&logoColor=F7F4EF&labelColor=221F1A" alt="GitHub: Rahyned" />
   </a>
-  <a href="https://portafolio-web-three-gamma.vercel.app">
+  <a href="https://lautaro.is-a.dev">
     <img src="https://img.shields.io/badge/PORTAFOLIO-VER%20SITIO-116E7A?style=for-the-badge&logo=vercel&logoColor=F7F4EF&labelColor=221F1A" alt="Portafolio: ver sitio" />
   </a>
 </p>
